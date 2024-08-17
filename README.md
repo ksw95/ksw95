@@ -1,6 +1,6 @@
 ### Hi there, I am [Shao Wei](https://github.com/ksw95) 👋
 
-I am Digital Product Manager and a part time Undergraduate Student pursuing a Bachelors(Hons) in Software Engineering.
+I am Digital Product Manager and a University Graduate with Bachelors(Hons) in Software Engineering.
 
 Looking for opportunities to switch into a Software Engineer role.
 

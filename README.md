@@ -1,8 +1,8 @@
 ### Hi there, I am [Shao Wei](https://github.com/ksw95) 👋
 
-I am System QA Engineer and a part time Undergraduate Student pursuing a Bachelors(Hons) in Software Engineering.
+I am Digital Product Manager and a part time Undergraduate Student pursuing a Bachelors(Hons) in Software Engineering.
 
-Open to entry level job opportunities and internship opportunities.
+Looking for opportunities to switch into a Software Engineer role.
 
 
 
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a [Project Duke](https://github.com/ksw95/duke) and [VCS Code Contribution Project](https://github.com/EndireKT/TIC3901-VCS-CodeContribution)
-- 🌱 I’m currently learning [Golang](https://golang.org) and [Java](https://www.java.com/en/)
+- 🔭 I’m currently practicing Golang & TDD on [Learn Go with Tests](https://github.com/ksw95/LearnGoWithTests)
+- 🌱 I’m most used to [Golang](https://golang.org) and [Java](https://www.java.com/en/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kohshaowei/)
 
 
